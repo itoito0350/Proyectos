@@ -2,7 +2,7 @@
 
 
 ## Aplicaciones multiplataforma
-### Aplicación: Gestión de Tareas
+### Aplicación: Gestión de Tareas (Android Studio)
 Esta aplicación permite a los usuarios gestionar sus tareas de forma eficiente, con la capacidad de agregar, editar y eliminar tareas, así como adjuntar archivos de texto, audio y video.
 <br><br>
 
@@ -37,7 +37,7 @@ Esta aplicación permite a los usuarios gestionar sus tareas de forma eficiente,
 </table>
 <br><br>
 
-### Aplicación: manejo de google_map
+### Aplicación: integración de google_map
 Con la integración de Google Maps, los usuarios pueden buscar ubicaciones, visualizar mapas interactivos y acceder a herramientas avanzadas de geolocalización. 
 
 <table>
