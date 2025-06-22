@@ -49,7 +49,17 @@ Con la integración de Google Maps, los usuarios pueden buscar ubicaciones, visu
 </table>
 <br><br><br>
 <hr><hr>
-<br>
+<br><br><br>
+
+## React-Native
+### Aplicación: Civica 
+Aplicación móvil para la comunicación entre la ciudadanía y su ayuntamiento.
+
+![Login](assets/gif01.gif)
+| ![Reserva 3](assets/reserva03.jpeg) | ![Reserva 4](assets/reserva04.jpeg) |
+
+
+<br><br>
 
 ## Diseño web
 Algunos ejemplos de diseños, creados para mejorar la experiencia del usuario y optimizar la navegación en diferentes dispositivos. Estos diseños están enfocados en la claridad, simplicidad y funcionalidad, aplicando las mejores prácticas de UX/UI.
