@@ -1,8 +1,8 @@
 # Proyectos
 
 
-## Aplicaciones multiplataforma
-### Aplicación: Gestión de Tareas (Android Studio)
+## Android Studio
+### Aplicación: Gestión de Tareas 
 Esta aplicación permite a los usuarios gestionar sus tareas de forma eficiente, con la capacidad de agregar, editar y eliminar tareas, así como adjuntar archivos de texto, audio y video.
 <br><br>
 
