@@ -51,6 +51,18 @@ Con la integración de Google Maps, los usuarios pueden buscar ubicaciones, visu
 <hr><hr>
 <br><br><br>
 
+## React+Django
+### Aplicación: GYM-FIT
+Plataforma web para la gestión de un gimnasio.
+<p align="center">
+  <img src="assets/gym00.gif"/><br>
+  
+  <img src="assets/Screenshot 2025-06-22 at 13.36.56.png" alt="gym"  />
+  <img src="assets/Screenshot 2025-06-22 at 13.36.37.png" alt="gym"  />
+</p>
+
+<br><br>
+
 ## React-Native
 ### Aplicación: Civica 
 Aplicación móvil para la comunicación entre la ciudadanía y su ayuntamiento.
