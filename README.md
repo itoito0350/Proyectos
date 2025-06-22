@@ -55,9 +55,12 @@ Con la integración de Google Maps, los usuarios pueden buscar ubicaciones, visu
 ### Aplicación: Civica 
 Aplicación móvil para la comunicación entre la ciudadanía y su ayuntamiento.
 
-![Login](assets/gif01.gif)
-| ![Reserva 3](assets/reserva03.jpeg) | ![Reserva 4](assets/reserva04.jpeg) |
-
+<p align="center">
+  <img src="assets/gif01.gif" alt="Login" width="250" />
+  <img src="assets/gif02.gif" alt="Login" width="250" /><br>
+  <img src="assets/reserva03.jpeg" alt="Reserva 3" width="250" />
+  <img src="assets/reserva04.jpeg" alt="Reserva 4" width="250" />
+</p>
 
 <br><br>
 
